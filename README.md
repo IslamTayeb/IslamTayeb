@@ -1,6 +1,6 @@
 Learning how computers work, get with the program @ [islamtayeb.dev](https://www.islamtayeb.dev/)
 
-### Projects Index
+### Public Projects Index
 
 #### Product
 - **[helium-raycast-extension](https://www.raycast.com/islamtayeb/helium)** - Raycast extension for Helium (TypeScript)
