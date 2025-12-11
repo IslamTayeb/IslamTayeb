@@ -19,7 +19,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 
 #### Hackathons
 - **[DataFest-24](https://github.com/islamtayeb/DataFest-24)** - Clustering student data to find learning patterns (Python)
-- **[hack-NC-24](https://github.com/islamtayeb/hack-NC-24)** - LLM-based predictive stock payment option for consumers (JavaScript)
+- **[HackNC-24](https://github.com/islamtayeb/HackNC-24)** - LLM-based predictive stock payment option for consumers (JavaScript)
 - **[DIIG-data-challenge-f24](https://github.com/islamtayeb/DIIG-data-challenge-f24)** - Statistical analysis of IBM employee attrition (Python)
 
 #### Applets
