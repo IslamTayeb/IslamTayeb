@@ -51,6 +51,4 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 
 </details>
 
----
-
 Last updated 12/11/2025
