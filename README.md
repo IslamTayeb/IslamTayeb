@@ -5,7 +5,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 <details>
 <summary><strong>Product</strong> - User-facing applications and tools</summary>
 
-- **[spotify-clustering](https://github.com/IslamTayeb/spotify-clustering)** ([External](https://apmoverflow.xyz/on-dimensions-of-taste/)) –
+- **[spotify-clustering](https://github.com/IslamTayeb/spotify-clustering)** ([External](https://apmoverflow.xyz/on-dimensions-of-taste/)) – Interpretable Spotify library clustering
 - **[helium-raycast-extension](https://www.raycast.com/islamtayeb/helium)** - Raycast extension for Helium (TypeScript)
 - **[etchr](https://github.com/islamtayeb/etchr)** ([External](https://www.etchr.dev/)) - Automated GitHub README generator (TypeScript)
 - **[wpm-speedometer](https://github.com/islamtayeb/wpm-speedometer)** - WPM keyboard speedometer that lives in your macOS menu bar (Swift)
