@@ -42,6 +42,9 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 <details>
 <summary><strong>Applets</strong> - Utility tools and automation scripts</summary>
 
+- **[osu-gpt](https://github.com/IslamTayeb/osu-gpt)** - Spotify-to-osu! beatmap matcher and generator via [Mapperatorinator](https://github.com/mappingtools/Mapperatorinator) (TypeScript)
+- **[obsidian-granular-repo](https://github.com/IslamTayeb/obsidian-granular-repo)** - Obsidian plugin for publishing vault folders/files as independent GitHub repos (TypeScript)
+- **[clawd-bot-setup](https://github.com/IslamTayeb/clawd-bot-setup)** - This assistant's brain. OpenClaw + Claude on Bedrock with Obsidian sync (Python)
 - **[solve-log](https://github.com/islamtayeb/solve-log)** ([External](https://solve-log.lovable.app/)) - Centralized leetcode/neetcode prep repository with simple interface (TypeScript)
 - **[QuadcastRGB](https://github.com/islamtayeb/QuadcastRGB)** - USB control for customizing mic RGB settings (C)
 - **[instagram-unfollower](https://github.com/islamtayeb/instagram-unfollower)** - Bot to unfollow non-mutual Instagram accounts (Python)
@@ -52,4 +55,4 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 
 </details>
 
-Last updated 01/06/2025
+Last updated 03/18/2026
