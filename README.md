@@ -11,7 +11,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 - **[mosh-lite](https://github.com/IslamTayeb/mosh-lite)** - UDP-based remote shell with persistent sessions for roaming clients (Python)
 - **[helium-raycast-extension](https://github.com/raycast/extensions/tree/main/extensions/helium)** ([External](https://www.raycast.com/islamtayeb/helium)) - Raycast extension for Helium (TypeScript)
 - **[etchr](https://github.com/IslamTayeb/etchr)** ([External](https://www.etchr.dev/)) - Automated GitHub README generator (TypeScript)
-- **[PDCL-antibody-domainbed](https://github.com/IslamTayeb/PDCL-antibody-domainbed)** - Primal dual continual learning for antibody protein design (PyTorch) ([Paper](https://doi.org/10.13140/RG.2.2.11182.98880))
+- **[PDCL-antibody-domainbed](https://github.com/IslamTayeb/PDCL-antibody-domainbed)** ([Paper](https://doi.org/10.13140/RG.2.2.11182.98880)) - Primal dual continual learning for antibody protein design (PyTorch)
 
 </details>
 
