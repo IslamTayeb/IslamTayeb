@@ -6,7 +6,6 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 <summary><strong>Selected</strong> - Higher-weight projects</summary>
 
 - **[decant](https://github.com/IslamTayeb/decant)** - Context maps and fidelity controls for OpenCode agents (TypeScript)
-- **[obsidian-granular-repo](https://github.com/IslamTayeb/obsidian-granular-repo)** - Obsidian plugin for publishing vault folders/files as independent GitHub repos (TypeScript)
 - **[harmonia](https://github.com/IslamTayeb/harmonia)** ([External](https://apmoverflow.xyz/on-dimensions-of-taste/)) - Audio + lyrics embedding pipeline for interpretable Spotify library clustering (Python/HTML)
 - **[xv6-networking-project](https://github.com/IslamTayeb/xv6-networking-project)** - UDP networking stack for xv6 with Intel E1000 driver and DMA-based packet handling (C)
 - **[mosh-lite](https://github.com/IslamTayeb/mosh-lite)** - UDP-based remote shell with persistent sessions for roaming clients (Python)
@@ -22,6 +21,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 
 - **[denoise-autoencoder](https://github.com/IslamTayeb/denoise-autoencoder)** - Denoising autoencoders for 1D time-series signals (Python/TeX)
 - **[clawd-bot-setup](https://github.com/IslamTayeb/clawd-bot-setup)** - Telegram Claude assistant for Obsidian sync (Python)
+- **[obsidian-granular-repo](https://github.com/IslamTayeb/obsidian-granular-repo)** - Obsidian plugin for publishing vault folders/files as independent GitHub repos (TypeScript)
 - **[soff-dashboard-demo](https://github.com/IslamTayeb/soff-dashboard-demo)** - Resizable supply chain dashboard demo (TypeScript)
 - **[research-paper-clustering](https://github.com/IslamTayeb/research-paper-clustering)** - Research paper topic clustering visualizations (TypeScript/Python)
 - **[HackNC-24](https://github.com/IslamTayeb/HackNC-24)** - LLM-based predictive stock payment option for consumers (JavaScript)
