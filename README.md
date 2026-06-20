@@ -12,7 +12,6 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 - **[helium-raycast-extension](https://github.com/raycast/extensions/tree/main/extensions/helium)** ([External](https://www.raycast.com/islamtayeb/helium)) - Raycast extension for Helium (TypeScript)
 - **[etchr](https://github.com/IslamTayeb/etchr)** ([External](https://www.etchr.dev/)) - Automated GitHub README generator (TypeScript)
 - **[PDCL-antibody-domainbed](https://github.com/IslamTayeb/PDCL-antibody-domainbed)** - Primal dual continual learning for antibody protein design (PyTorch) ([Paper](https://doi.org/10.13140/RG.2.2.11182.98880))
-- **[personal-website](https://github.com/IslamTayeb/personal-website)** - Personal site and APM Overflow blog source (TypeScript)
 
 </details>
 
@@ -22,6 +21,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 - **[denoise-autoencoder](https://github.com/IslamTayeb/denoise-autoencoder)** - Denoising autoencoders for 1D time-series signals (Python/TeX)
 - **[clawd-bot-setup](https://github.com/IslamTayeb/clawd-bot-setup)** - Telegram Claude assistant for Obsidian sync (Python)
 - **[obsidian-granular-repo](https://github.com/IslamTayeb/obsidian-granular-repo)** - Obsidian plugin for publishing vault folders/files as independent GitHub repos (TypeScript)
+- **[personal-website](https://github.com/IslamTayeb/personal-website)** - Personal site and APM Overflow blog source (TypeScript)
 - **[soff-dashboard-demo](https://github.com/IslamTayeb/soff-dashboard-demo)** - Resizable supply chain dashboard demo (TypeScript)
 - **[research-paper-clustering](https://github.com/IslamTayeb/research-paper-clustering)** - Research paper topic clustering visualizations (TypeScript/Python)
 - **[HackNC-24](https://github.com/IslamTayeb/HackNC-24)** - LLM-based predictive stock payment option for consumers (JavaScript)
