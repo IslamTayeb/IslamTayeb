@@ -10,7 +10,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 - **[harmonia](https://github.com/IslamTayeb/harmonia)** ([External](https://apmoverflow.xyz/on-dimensions-of-taste/)) - Audio + lyrics embedding pipeline for interpretable Spotify library clustering (Python/HTML)
 - **[xv6-networking-project](https://github.com/IslamTayeb/xv6-networking-project)** - UDP networking stack for xv6 with Intel E1000 driver and DMA-based packet handling (C)
 - **[mosh-lite](https://github.com/IslamTayeb/mosh-lite)** - UDP-based remote shell with persistent sessions for roaming clients (Python)
-- **[helium-raycast-extension](https://www.raycast.com/islamtayeb/helium)** ([Source](https://github.com/raycast/extensions/tree/main/extensions/helium)) - Raycast extension for Helium (TypeScript)
+- **[helium-raycast-extension](https://github.com/raycast/extensions/tree/main/extensions/helium)** ([External](https://www.raycast.com/islamtayeb/helium)) - Raycast extension for Helium (TypeScript)
 - **[etchr](https://github.com/IslamTayeb/etchr)** ([External](https://www.etchr.dev/)) - Automated GitHub README generator (TypeScript)
 - **[PDCL-antibody-domainbed](https://github.com/IslamTayeb/PDCL-antibody-domainbed)** - Primal dual continual learning for antibody protein design (PyTorch) ([Paper](https://doi.org/10.13140/RG.2.2.11182.98880))
 - **[personal-website](https://github.com/IslamTayeb/personal-website)** - Personal site and APM Overflow blog source (TypeScript)
