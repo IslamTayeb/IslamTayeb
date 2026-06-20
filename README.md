@@ -3,7 +3,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 ## Public Projects Index
 
 <details>
-<summary><strong>Selected</strong> - Higher-weight projects, newest to oldest</summary>
+<summary><strong>Selected</strong> - Higher-weight projects</summary>
 
 - **[decant](https://github.com/IslamTayeb/decant)** - Context maps and fidelity controls for OpenCode agents (TypeScript)
 - **[obsidian-granular-repo](https://github.com/IslamTayeb/obsidian-granular-repo)** - Obsidian plugin for publishing vault folders/files as independent GitHub repos (TypeScript)
@@ -18,7 +18,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 </details>
 
 <details>
-<summary><strong>Other</strong> - Larger projects and coursework, newest to oldest</summary>
+<summary><strong>Other</strong> - Larger projects and coursework</summary>
 
 - **[denoise-autoencoder](https://github.com/IslamTayeb/denoise-autoencoder)** - Denoising autoencoders for 1D time-series signals (Python/TeX)
 - **[clawd-bot-setup](https://github.com/IslamTayeb/clawd-bot-setup)** - Telegram Claude assistant for Obsidian sync (Python)
@@ -33,7 +33,7 @@ Learning how computers work, get with the program @ [islamtayeb.dev](https://www
 </details>
 
 <details>
-<summary><strong>Utilities</strong> - Small tools, scripts, and one-off side projects, newest to oldest</summary>
+<summary><strong>Utilities</strong> - Small tools, scripts, and one-off side projects</summary>
 
 - **[osu-gpt](https://github.com/IslamTayeb/osu-gpt)** - Spotify-to-osu! beatmap matcher and generator via [Mapperatorinator](https://github.com/OliBomby/Mapperatorinator) (TypeScript)
 - **[dotfiles](https://github.com/IslamTayeb/dotfiles)** - Nix-managed dotfiles for shell/editor config (Nix)
